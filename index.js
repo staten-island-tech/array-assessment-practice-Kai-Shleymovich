@@ -100,3 +100,4 @@ const titles = [
 //was every book published within the last 100 years?
 
 //print a list of books that "includes" the genre historical
+author=books.filter((books)=>console.log(books.genre='historical'))
